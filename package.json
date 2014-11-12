@@ -1,0 +1,16 @@
+{
+  "name": "site-seo-info",
+  "version": "1.0.0",
+  "description": "SIte SEO info",
+  "main": "index.js",
+  "dependencies": {
+    "pagerank-checksum": "^1.0.0",
+    "request": "^2.47.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Denis Perepelicin",
+  "license": "ISC"
+}
